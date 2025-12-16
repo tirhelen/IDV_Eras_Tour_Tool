@@ -1,6 +1,6 @@
 In this app you can explore the Eras Tour once again! You'll see in which cities Taylor Swift toured, how many tickets they sold and which surprise songs she performed!
 
-You can use the app directly in this address: [https://idv-eras-tour-tool.onrender.com/]
+You can use the app directly in this address: [https://idv-eras-tour-tool.onrender.com/] (NOTE! It might take a long time for the page to load.)
 
 
 Other option is to clone this repository and to follow these steps:
